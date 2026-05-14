@@ -21,8 +21,22 @@ footer {
     padding-top: 5px;
 }
 
+.titulo {
+    width: 110px;
+    margin-left: 20px;
+}
+
+.Introduccion {
+    text-align: center;
+}
+
 .navbar {
     background-color: #2d414c;
+}
+
+.btn-personalizado {
+    background-color: #147414;
+    border-radius: 10px;
 }
 
 .navbar-toggler {
@@ -37,6 +51,10 @@ a:hover {
     background-color: white;
 }
 
+.Bienvenidos {
+    background-color: #147414;
+    border-radius: 0 0 20px 20px;
+}
 
 .nombre,
 .text-uppercase,
