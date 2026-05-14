@@ -1,0 +1,45 @@
+.logo-principal {
+    width: 130px;
+}
+
+.logo-alternativo {
+    max-height: 35px;
+    width: auto;
+}
+
+.logo-simple {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+}
+
+footer {
+    background-color: #2d414c;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.navbar {
+    background-color: #2d414c;
+}
+
+.navbar-toggler {
+    border-radius: 10px;
+}
+
+.navbar-toggler:hover {
+    background-color: #ffffff;
+}
+
+a:hover {
+    background-color: white;
+}
+
+
+.nombre,
+.text-uppercase,
+.derechos {
+    color: #147414;
+}
