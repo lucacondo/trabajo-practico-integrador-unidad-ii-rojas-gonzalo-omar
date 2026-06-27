@@ -61,3 +61,15 @@ a:hover {
 .derechos {
     color: #147414;
 }
+
+.carousel-control-prev-icon{
+    margin-left: 100px;
+}
+
+.carousel-control-next-icon{
+    margin-right: 100px;
+}
+
+.fundador, .ruta{
+    max-width: 120px;
+}
