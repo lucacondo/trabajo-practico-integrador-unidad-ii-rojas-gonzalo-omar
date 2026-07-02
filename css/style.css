@@ -21,8 +21,22 @@ footer {
     padding-top: 5px;
 }
 
+.titulo {
+    width: 110px;
+    margin-left: 20px;
+}
+
+.Introduccion {
+    text-align: center;
+}
+
 .navbar {
     background-color: #2d414c;
+}
+
+.btn-personalizado {
+    background-color: #147414;
+    border-radius: 10px;
 }
 
 .navbar-toggler {
@@ -37,9 +51,25 @@ a:hover {
     background-color: white;
 }
 
+.Bienvenidos {
+    background-color: #147414;
+    border-radius: 0 0 20px 20px;
+}
 
 .nombre,
 .text-uppercase,
 .derechos {
     color: #147414;
+}
+
+.carousel-control-prev-icon{
+    margin-left: 100px;
+}
+
+.carousel-control-next-icon{
+    margin-right: 100px;
+}
+
+.fundador, .ruta{
+    max-width: 120px;
 }
