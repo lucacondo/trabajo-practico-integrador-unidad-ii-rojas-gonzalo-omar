@@ -1,0 +1,68 @@
+.logo-principal {
+    width: 130px;
+}
+
+.logo-alternativo {
+    max-height: 35px;
+    width: auto;
+}
+
+.logo-simple {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+}
+
+footer {
+    background-color: #2d414c;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.navbar {
+    background-color: #2d414c;
+}
+
+.navbar-toggler {
+    border-radius: 10px;
+}
+
+.navbar-toggler:hover {
+    background-color: #ffffff;
+}
+
+a:hover {
+    background-color: white;
+}
+
+
+.nombre,
+.text-uppercase,
+.derechos {
+    color: #147414;
+}
+
+.Contactos {
+    background-color: #147414;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.telefono{
+    border-left: 5px solid #147414;
+    border-right: 5px solid #147414;
+}
+
+.buton{
+    background-color: #2d414c !important;
+    color: white !important;
+}
+
+.formulario:hover {
+    border-radius: 5px;
+    background-color: rgb(20, 116, 20, 0.9);
+    color: white !important;
+    transition: background-color 0.9s ease, color 0.3s ease;
+    box-shadow: #00f700b6 0px 0px 20px;
+}
